@@ -61,7 +61,7 @@ The project includes PostgreSQL queries covering:
 
 An interactive Power BI dashboard was created to visualize restaurant-related metrics, trends, and insights.
 
-**Live Dashboard:** Coming soon 🚀
+**Live Dashboard:** (https://zomatodataanalysiscasestudy-himanshu.streamlit.app/)
 
 ## 💡 Business Questions
 

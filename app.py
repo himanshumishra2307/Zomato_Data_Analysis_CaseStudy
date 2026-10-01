@@ -18,7 +18,7 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-   df = pd.read_csv("Data/zomato.csv", encoding="latin1")
+    df = pd.read_csv("Data/zomato.csv", encoding="latin1")
 
     # Standardize column names
     df.columns = [c.strip() for c in df.columns]

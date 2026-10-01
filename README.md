@@ -75,6 +75,20 @@ The analysis explores questions such as:
 - Which locations have a higher concentration of restaurants?
 - What patterns can be observed in restaurant performance?
 
+## 💡 Key Business Insights
+
+- New Delhi has the highest number of restaurants in the dataset, with 5,473 restaurants, followed by Gurgaon (1,118) and Noida (1,080).
+
+- 2,148 restaurants (22.5% of the dataset) have an aggregate rating of 0. Excluding these unrated restaurants, the average rating is approximately 3.44.
+
+- Restaurants offering online delivery have an average rating of 3.25 compared with 2.47 for restaurants without online delivery.
+
+- Average rating increases across price ranges, from approximately 2.00 for Price Range 1 to 3.82 for Price Range 4.
+
+- Restaurants offering table booking have an average rating of 3.44 compared with 2.56 for restaurants without table booking.
+
+- North Indian cuisine is the most frequently represented cuisine category, followed by Chinese and Fast Food.
+
 ## 📄 Project Report
 
 A detailed case-study report is included in the **Report** folder.
